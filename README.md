@@ -33,6 +33,7 @@ There are 2 parts :
   ![image](https://user-images.githubusercontent.com/91692409/204716133-02956ee8-8ed8-4af1-8f78-5d06611ca8c3.png)
 
   - Input validation and Exception Handling are implemented throughout all possible inputs.
+  - (not all warning message are shown here, just examples of few)
   ![image](https://user-images.githubusercontent.com/91692409/204716780-e9cce1bb-f673-4ded-805e-a5337e91fe91.png)
   ![image](https://user-images.githubusercontent.com/91692409/204716809-19b2a24c-a0f3-4db2-86fd-3fdce9ec9158.png)
   ![image](https://user-images.githubusercontent.com/91692409/204715489-2bdb8463-2dcd-4c90-b5a0-703ef2c306e4.png)
@@ -46,3 +47,8 @@ There are 2 parts :
 
 # References
 To help you more to understanding the basics of Java's GUI.
+- https://www.youtube.com/watch?v=Kmgo00avvEw (Java GUI basics using Swing).
+- (basically the entire "An Introduction to Object-Oriented Programming with Java" by C. Thomas Wu , 5th edition).
+
+# LICENSE
+License of this project are in LICENSE file, using GPL v3.0.
