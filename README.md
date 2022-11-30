@@ -12,6 +12,11 @@ There are 2 parts :
 - CLI_project : written without GUI (basically the framework before transitioning to GUI)
 - GUI_project : the complete project with GUI.
 
+# How do I run this project?
+- Somehow import the source codes here to NetBeans. (Other IDE won't work bcs of proprietary classes that NetBeans uses).
+- Browse to GUI_project/src/main_menu.java
+- Click run.
+
 # What this app looks like?
 - Main menu
   - Users are asked to input their program name and total no. of semesters
