@@ -5,7 +5,7 @@ CGPA and GPA for university calculator, written in Java implementing GUI.
 This project was created for one of my `[redacted]` assignments, and since it is declassified, I will release the source code here. Hope it will help you for your Java Assignment.
 
 # How this project was built?
-This project was built using Netbeans, written with Java together with GUI from Java's Swing and AWT class.
+This project was built using `NetBeans`, written with `Java` together with GUI from `Java's Swing` and `AWT` class.
 
 # What are inside this project?
 There are 2 parts :
@@ -56,4 +56,4 @@ To help you more to understanding the basics of Java's GUI.
 - (basically the entire "An Introduction to Object-Oriented Programming with Java" by C. Thomas Wu , 5th edition).
 
 # LICENSE
-License of this project are in LICENSE file, using GPL v3.0.
+License of this project are in LICENSE file, using GPL v3.0. `You are free to use the source codes in this repo ONLY for educational purposes, only.`
